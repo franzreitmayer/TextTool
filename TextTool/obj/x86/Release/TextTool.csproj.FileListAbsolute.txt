@@ -1,0 +1,27 @@
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\bin\Release\TextTool.exe.config
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\bin\Release\TextTool.exe
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\bin\Release\TextTool.pdb
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\TextTool.frmMain.resources
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\TextTool.Properties.Resources.resources
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\TextTool.exe
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Release\TextTool.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\TextTool.exe.config
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.exe
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.frmMain.resources
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.Properties.Resources.resources
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\TextTool.exe
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\TextTool.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\Antlr3.Runtime.dll
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\Antlr3.Runtime.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.AboutDialog.resources
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\TextTool.exe.manifest
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Release\TextTool.application
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.exe.manifest
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Release\TextTool.application

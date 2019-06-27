@@ -1,0 +1,27 @@
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\bin\Debug\TextTool.exe.config
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\bin\Debug\TextTool.exe
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\bin\Debug\TextTool.pdb
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\TextTool.frmMain.resources
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\TextTool.Properties.Resources.resources
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\TextTool.exe
+C:\Users\franz\AppData\Local\Temporary Projects\TextTool\obj\x86\Debug\TextTool.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\TextTool.exe.config
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\TextTool.exe
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\TextTool.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\Antlr3.Runtime.dll
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\Antlr3.Runtime.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.frmMain.resources
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.Properties.Resources.resources
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.exe
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.pdb
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.AboutDialog.resources
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\TextTool.exe.manifest
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\bin\Debug\TextTool.application
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.exe.manifest
+F:\Users\franz\documents\visual studio 2010\Projects\TextTool\TextTool\obj\x86\Debug\TextTool.application
